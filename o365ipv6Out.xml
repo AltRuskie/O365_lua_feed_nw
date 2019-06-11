@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FDF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="feed-definitions.xsd">
+
+<FlatFileFeed comment="#" separator="," path="o365ipv6Out.csv" name="unified">
+<LanguageKeys>
+<LanguageKey name="filter" valuetype="Text"/>
+</LanguageKeys>
+
+<Fields>
+<Field index="1" type="index" key="cidr"/>
+<Field index="2" type="value" key="filter"/>
+<Field index="3" type="value" key="filter"/>
+
+</Fields>
+</FlatFileFeed>
+</FDF>
